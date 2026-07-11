@@ -1,0 +1,9 @@
+{
+  "total_games": 10,
+  "red_wins": 6,
+  "blue_wins": 4,
+  "achievements": [
+    "first_game",
+    "ten_games"
+  ]
+}

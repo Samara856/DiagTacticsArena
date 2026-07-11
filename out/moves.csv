@@ -1,0 +1,1 @@
+config_id,game_id,move_no,phase,player,algo,personality,board_size,difficulty,depth_limit,time_limit,nodes,prunes,depth_reached,time_spent,best_score

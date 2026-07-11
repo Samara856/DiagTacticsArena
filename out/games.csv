@@ -1,0 +1,1 @@
+config_id,game_id,board_size,difficulty,red_personality,blue_personality,depth_limit,time_limit,winner,total_moves,wall_time_sec,ended_reason
